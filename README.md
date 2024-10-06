@@ -1,6 +1,6 @@
 ## Project: Taskify
 
-### Technology: 
+### Technologies: 
 * TypeScript
 * HTML
 * CSS

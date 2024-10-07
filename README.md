@@ -4,7 +4,6 @@
 * TypeScript
 * HTML
 * CSS
-* 
 
 ## Getting Started with Create React App
 

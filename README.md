@@ -5,7 +5,7 @@
 * HTML
 * CSS
 
-Small project
+Small project with TypeScript
 
 ## Getting Started with Create React App
 

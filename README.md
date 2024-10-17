@@ -6,7 +6,7 @@
 * CSS
 
 Small project with TypeScript
-#### **Learning**
+#### **Learning:** TypeScript
 
 ## Getting Started with Create React App
 

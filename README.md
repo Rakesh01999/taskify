@@ -7,6 +7,7 @@
 
 ** A project with TypeScript . Typescript testing .
 
+
 #### **Learning(mainly):** TypeScript
 
 ## Getting Started with Create React App

@@ -5,7 +5,7 @@
 * HTML
 * CSS
 
-** TypeScript Project . Typescript testing .
+** TypeScript Project . Typescript .
 
 
 #### **Learning(mainly):** TypeScript

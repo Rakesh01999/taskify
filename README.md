@@ -1,4 +1,5 @@
 ## Project: Taskify
+
  
 ### Used Technologies: 
 * TypeScript

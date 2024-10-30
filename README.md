@@ -2,7 +2,7 @@
 
 ### Used Technologies:  
 * TypeScript
-* HTML
+* HTML 
 * CSS
 
 ** TypeScript Project . **
